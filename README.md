@@ -30,5 +30,10 @@ Project Description 📄
       http://sofifa.com/ : players and teams attributes from EA Sports FIFA games. FIFA series and all FIFA assets property of EA Sports.
       
 We have trained this model using Random Forrest Regression as it giving us 97% accuracy
-# ML_fifa_Regression
+# How to run analysis file:
+❄️ Download data from https://github.com/shiv0112/fifa_dataset/raw/main/database.sqlite.zip
+```bash
+Step 1: Extract the dataset downloaded into "data folder"
+Step 2: Run the analysis.ipynb notebook
+```
 # ML_fifa_Regression
