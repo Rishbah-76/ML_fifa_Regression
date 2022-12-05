@@ -37,16 +37,16 @@ Step 1: Extract the dataset downloaded into "data" folder
 Step 2: Run the analysis.ipynb notebook
 ```
 # Selected Features
-<img  height="450"src="https://github.com/Rishbah-76/ML_fifa_Regression.git/blob/main/ss/1.jpg" >
+<img  height="450"src="https://github.com/Rishbah-76/ML_fifa_Regression.git/blob/main/ss/1.jpg"/>
 
 # Metrics of all models used
-<img  height="450"src="https://github.com/Rishbah-76/ML_fifa_Regression.git/blob/main/ss/2.jpg" >
+<img  height="450"src="https://github.com/Rishbah-76/ML_fifa_Regression.git/blob/main/ss/2.jpg"/>
 
 # The Accuracy of the model:
-<img  height="450"src="https://github.com/Rishbah-76/ML_fifa_Regression.git/blob/main/ss/3.jpg" >
+<img  height="450"src="https://github.com/Rishbah-76/ML_fifa_Regression.git/blob/main/ss/3.jpg"/>
 
 # The comparison of Actual value and predicted value by our model
-<img  height="450"src="https://github.com/Rishbah-76/ML_fifa_Regression.git/blob/main/ss/4.jpg" >
+<img  height="450"src="https://github.com/Rishbah-76/ML_fifa_Regression.git/blob/main/ss/4.jpg"/>
 
 # Finally prediction displayed:
-<img  height="450"src="https://github.com/Rishbah-76/ML_fifa_Regression.git/blob/main/ss/5.jpg" >
+<img  height="450"src="https://github.com/Rishbah-76/ML_fifa_Regression.git/blob/main/ss/5.jpg"/>
